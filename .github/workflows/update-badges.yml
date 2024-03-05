@@ -11,5 +11,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-              GH_TOKEN: ${{ secrets.BADGE }}
               CREDLY_USER: chris.wei.cui@gmail.com
