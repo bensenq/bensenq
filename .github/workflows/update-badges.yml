@@ -2,6 +2,10 @@ name: Update badges
 
 on:
   workflow_dispatch:
+
+env:
+  CREDLY_USER: chris.wei.cui@gmail.com
+  
 jobs:
   update-readme:
     name: Update Readme with badges
