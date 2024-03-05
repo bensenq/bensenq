@@ -11,4 +11,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-              CREDLY_USER: pemtajo
+              CREDLY_USER: chris-cui.645a2d96
