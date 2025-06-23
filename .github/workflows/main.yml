@@ -1,0 +1,21 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at 00:00 UTC
+  workflow_dispatch: # Optional: allows manual trigger
+
+permissions:
+  contents: write # Required if using the default GITHUB_TOKEN
+
+jobs:
+  update-readme:
+    name: Update README with Credly Badges
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update Badges in README
+        uses: jd-35656/readme-credly-badges@v1
+        with:
+          credly_username: chris-cui.645a2d96
+          github_token: ${{ secrets.CREDLY }}
