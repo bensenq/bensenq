@@ -7,3 +7,5 @@
 <!--START_SECTION:badges-->
 [![Zephyr Technical Contributor](https://images.credly.com/size/110x110/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png)](http://www.credly.com/badges/5d35452a-a87f-4531-bed2-fe59682e7108 "Zephyr Technical Contributor")
 <!--END_SECTION:badges-->
+<!-- START CREDLY BADGES -->
+<!-- END CREDLY BADGES -->
