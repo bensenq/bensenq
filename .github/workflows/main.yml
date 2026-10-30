@@ -19,3 +19,4 @@ jobs:
         with:
           credly_username: chris-cui.645a2d96
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          badge_size: '150x150'
