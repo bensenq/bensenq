@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:
       - name: Update Badges
-        uses: pemtajo/badge-readme@main
+        uses: Joibel/badge-readme@fix-badge-size
         with:
           CREDLY_USER: bensenq
           NUMBER_LAST_BADGES: 10 # Show last 10 badges (0 = all)
