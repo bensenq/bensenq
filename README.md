@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chris Cui @bensenq.
 - 👀 I’m interested in low-level programming such as kernel, virtualization and embedded system.
 - 🌱 I’m currently learning how to live a more interesting life.
-- 📫 How to reach me: chris.wei.cui@gmail.com chris.wei.cui@foxmail.com
+- 📫 How to reach me: chris.wei.cui@gmail.com
 
 <!--START_SECTION:badges-->
 [<img src="https://images.credly.com/size/80x80/images/fe724d20-7a05-417e-b10a-29e458a3fc04/blob" alt="LFD110: Introduction to RISC-V" width="80" height="80">](https://www.credly.com/badges/07d4606a-87a4-4eed-85f1-cdd4f3125a91)
